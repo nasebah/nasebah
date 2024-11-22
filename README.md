@@ -2,7 +2,6 @@
 <h1 align="center">Hi 👋, I'm Nasebah</h1>
 <h3 align="center">ML, NLP</h3>
 
-- 📝 my website [https://nasebahalmufadi.com](https://nasebahalmufadi.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
